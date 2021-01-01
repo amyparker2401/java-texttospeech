@@ -70,7 +70,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-texttospeech-v1</artifactId>
-        <version>1.2.5-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-texttospeech-v1:current} -->
+        <version>1.2.5</version><!-- {x-version-update:proto-google-cloud-texttospeech-v1:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
